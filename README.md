@@ -11,6 +11,6 @@ This repository provides the code for the following paper:
 }
 ```
 
-The code is modified from [e2e-coref](https://github.com/kentonl/e2e-coref) and [bert-coref](https://github.com/mandarjoshi90/coref).
+The code is modified from [e2e-coref](https://github.com/kentonl/e2e-coref) and [bert-coref](https://github.com/mandarjoshi90/coref). Please follow the instructions in [bert-coref](https://github.com/mandarjoshi90/coref) to setup the experiments except for using the *.conf files provided in this repository.
 
 The OntoNotes dataset is available at via LDC at https://catalog.ldc.upenn.edu/LDC2013T19
